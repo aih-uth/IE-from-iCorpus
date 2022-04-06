@@ -15,7 +15,7 @@
 
 ## Run
 
- UTH-BERTを[こちら](https://ai-health.m.u-tokyo.ac.jp/home/research/uth-bert)のサイトからダウンロードしてください。
+UTH-BERTは[こちら](https://ai-health.m.u-tokyo.ac.jp/home/research/uth-bert)のサイトからダウンロードしてください。
 
 Jointモデルの訓練と評価（ファイル内のパスは環境に応じて修正してください）
 ```
@@ -37,7 +37,7 @@ CC BY-NC-SA 4.0
 - Hiroki Nakayama. seqeval: A python framework for sequence labeling evaluation, 2018. Software available from https://github.com/chakki-works/seqeval.
 
 ## Other
-実験に使用した症例報告コーパスは[こちら](https://ai-health.m.u-tokyo.ac.jp/home/research/corpus)のサイトからダウンロードできます。
+実験に使用した症例報告コーパスのオリジナルは[こちら](https://ai-health.m.u-tokyo.ac.jp/home/research/corpus)のサイトからダウンロードできます。
 
 ## Citation
 
